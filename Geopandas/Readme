@@ -1,6 +1,0 @@
-# You need to change.ipynb files to .py if you plan to open them in Spyder; .ipynb files will only open in Jupyter Notebook or Visual Studio Code.
-#trying_geopandasfeature1 : explains how to access data from .json and .shp files and plot the data
-#trying_geopandasfeature3 : Explains how to convert pandas data frames into geodataframes
-#trying_Numbas : Explains how numba converts your functions into machine code and solves in less time
-#India : Sample code for plotting different state capitals of India using latitude and longitude data.
-#cities_as_agent : plotting different cities in India and setting them as agent using repast4py. Combination of geopandas and repast4py libraries.
