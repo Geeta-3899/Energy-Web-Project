@@ -1,1 +1,7 @@
 # Please note that .ipynb files only open in Jupyte NOtebook or Visual Studio Code; convert them to .py first if you are planning to open in spyder
+#cities_as_agent : Setting different cities in India as repast4py agents
+#trying_geopandasfeature1 : use of .json and .shp data files
+#trying_geopandasfeature2 : Undersatnding geodatasets and explore different functions
+#trying_geopandasfeature3 : explains how to convert pandas dataframe into geoDataFrame
+India : Plotting capitals of states of India using geopandas
+trying_Numbas:explains how numba convert your functions into machine code and solves in less time
